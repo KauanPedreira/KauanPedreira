@@ -68,7 +68,7 @@ Entrei em 2023.1 e finalizarei em 2026.2
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="175" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanPedreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
