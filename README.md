@@ -10,7 +10,7 @@ Entrei em 2023.1 e finalizarei em 2026.2
 
 
 ### 🤖 Linguagens e Tecnologias
-
+          
 <img 
     align="left" 
     alt="HTML"
@@ -41,7 +41,7 @@ Entrei em 2023.1 e finalizarei em 2026.2
     title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+    src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor" 
 />
 <img 
     align="left" 
@@ -49,8 +49,27 @@ Entrei em 2023.1 e finalizarei em 2026.2
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" 
+    src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" 
 />
 <br/>
 <br/>
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=KauanPedreira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauanPedreira&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
