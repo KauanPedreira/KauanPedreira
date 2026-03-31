@@ -2,11 +2,11 @@
 
 **`Graduando em Engenharia de Software`**
 
-Meu nome é Kauan Santos Pedreira, tenho 20 anos e sou natural da Bahia, atualmente residente no Paraná.
+Meu nome é Kauan Santos Pedreira, tenho 22 anos e sou natural da Bahia, atualmente residente no Paraná.
 
-Curso Engenharia de Software na Universidade Tecnológica Federal do Paraná (UTFPR) – Campus Cornélio Procópio, estando atualmente no 4º período.
+Curso Engenharia de Software na Universidade Tecnológica Federal do Paraná (UTFPR) – Campus Cornélio Procópio, estando atualmente no 7º período.
 
-Iniciei minha graduação no 1º semestre de 2023, com previsão de conclusão no 2º semestre de 2026.
+Iniciei minha graduação no 1º semestre de 2023, com previsão de conclusão no 2º semestre de 2027.
 
 ---
 
